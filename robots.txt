@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barrhavenelectrician.ca/sitemap-index.xml
